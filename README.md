@@ -1,7 +1,8 @@
-# MATEO
+# <h1 align="center">MATEO</h1>
 
-- I am currently a begginer programmer that is currently experimenting and looking for new projects to work on.
-- In the past, i spent alot of time developing and creating discord bots using Discord.js, i am looking to using these skills to 
+- a begginer programmer that is currently experimenting and looking for new projects to work on.
+- In the past, i spent alot of time developing and creating discord bots using [Discord.js](https://github.com/discordjs/discord.js/).
+- 
 
 # Currently Learning
 
