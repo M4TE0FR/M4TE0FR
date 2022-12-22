@@ -6,9 +6,9 @@
 - My previous account is [@puffieBOTS](https://github.com/puffieBOTS)
 - Working on [AgriVille](https://github.com/Agriville)
 # Currently Learning
+![dadsafgaged](https://user-images.githubusercontent.com/120265486/209209326-49f8a1e0-6592-4907-a710-b72f6dc55749.png)
 
 <p align="left">
- ![dadsafgaged](https://user-images.githubusercontent.com/120265486/209209271-f3c09625-5c90-47ef-ab3f-35e2debb65fc.png)
 
 </p>
 
