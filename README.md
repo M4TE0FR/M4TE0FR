@@ -8,9 +8,8 @@
 # Currently Learning
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ ![dadsafgaged](https://user-images.githubusercontent.com/120265486/209209271-f3c09625-5c90-47ef-ab3f-35e2debb65fc.png)
+
 </p>
 
 
