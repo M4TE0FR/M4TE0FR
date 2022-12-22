@@ -12,6 +12,12 @@
 
 </p>
 
+# <h1 align="center">Recent projects</h1>
+
+- [AgriVille](https://github.com/Agriville), A simplsistic style farming game which contains alot of features.
+- [TalkSpot](https://github.com/M4TE0FR/TalkSpot), A template which people can use to set up a basic messaging service (compatabile with databases like firebase.)
+- [Agriville Website](https://github.com/M4TE0FR/M4TE0FR.github.io), This is the website for the AgriVille organisation. See the live version at http://agriville.tk/
+
 
 
 
